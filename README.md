@@ -1,2 +1,5 @@
 # Qt5_Intermediate_5.2_ExploringQDebug_CreatingLoggerClass
-#SourceCode to be added soon
+
+#Under Exploring QDebug creating Logger class discussed and
+
+#SourceCode added
